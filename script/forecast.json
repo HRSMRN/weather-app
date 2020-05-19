@@ -1,0 +1,182 @@
+{
+    "Headline": {
+      "EffectiveDate": "2020-05-13T07:00:00+00:00",
+      "EffectiveEpochDate": 1589353200,
+      "Severity": 5,
+      "Text": "A thundershower Wednesday",
+      "Category": "thunderstorm",
+      "EndDate": "2020-05-13T19:00:00+00:00",
+      "EndEpochDate": 1589396400,
+      "MobileLink": "http://m.accuweather.com/en/ci/dionkro/885212/extended-weather-forecast/885212?lang=en-us",
+      "Link": "http://www.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?lang=en-us"
+    },
+    "DailyForecasts": [
+      {
+        "Date": "2020-05-13T07:00:00+00:00",
+        "EpochDate": 1589353200,
+        "Temperature": {
+          "Minimum": {
+            "Value": 74,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 96,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 17,
+          "IconPhrase": "Partly sunny w/ t-storms",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Night": {
+          "Icon": 34,
+          "IconPhrase": "Mostly clear",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?day=1&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?day=1&lang=en-us"
+      },
+      {
+        "Date": "2020-05-14T07:00:00+00:00",
+        "EpochDate": 1589439600,
+        "Temperature": {
+          "Minimum": {
+            "Value": 75,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 95,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 2,
+          "IconPhrase": "Mostly sunny",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 34,
+          "IconPhrase": "Mostly clear",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?day=2&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?day=2&lang=en-us"
+      },
+      {
+        "Date": "2020-05-15T07:00:00+00:00",
+        "EpochDate": 1589526000,
+        "Temperature": {
+          "Minimum": {
+            "Value": 75,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 93,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 16,
+          "IconPhrase": "Mostly cloudy w/ t-storms",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Moderate"
+        },
+        "Night": {
+          "Icon": 36,
+          "IconPhrase": "Intermittent clouds",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?day=3&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?day=3&lang=en-us"
+      },
+      {
+        "Date": "2020-05-16T07:00:00+00:00",
+        "EpochDate": 1589612400,
+        "Temperature": {
+          "Minimum": {
+            "Value": 74,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 93,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 6,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 7,
+          "IconPhrase": "Cloudy",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Moderate"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?day=4&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?day=4&lang=en-us"
+      },
+      {
+        "Date": "2020-05-17T07:00:00+00:00",
+        "EpochDate": 1589698800,
+        "Temperature": {
+          "Minimum": {
+            "Value": 74,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 91,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 6,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Night": {
+          "Icon": 38,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?day=5&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ci/dionkro/885212/daily-weather-forecast/885212?day=5&lang=en-us"
+      }
+    ]
+  }
