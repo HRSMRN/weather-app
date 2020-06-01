@@ -29,7 +29,7 @@ const temprature = document.querySelector(".temp");
 async function updateTodayWeather(cityName, weather) {
   city.textContent = cityName;
 
-  weatherLogo.innerHTML = `<img src="./images/icons/${weather.WeatherIcon}.svg"/>
+  weatherLogo.innerHTML = `<img src="./dist/images/icons/${weather.WeatherIcon}.svg"/>
             <h3>${weather.WeatherText}</h3>`;
 
   temprature.innerHTML = `<h2>Temprature</h2>
@@ -54,7 +54,7 @@ async function updateFiveDayWeather(fiveDayForecast) {
 
 async function updateEachDaysForecast(forecast, days) {
   days.forEach((day, index) => {
-    day.innerHTML = `<img src="./images/icons/${forecast[index].Day.Icon}.svg" />
+    day.innerHTML = `<img src="./dist/images/icons/${forecast[index].Day.Icon}.svg" />
 
     <h3 class="day-icon-name"> ${forecast[index].Day.IconPhrase}</h3>`;
   });
@@ -62,7 +62,7 @@ async function updateEachDaysForecast(forecast, days) {
 
 async function updateEachNightsForecast(forecast, nights) {
   nights.forEach((night, index) => {
-    night.innerHTML = `<img src="./images/icons/${forecast[index].Night.Icon}.svg" />
+    night.innerHTML = `<img src="./dist/images/icons/${forecast[index].Night.Icon}.svg" />
 
     <h3 class="night-icon-name"> ${forecast[index].Night.IconPhrase}</h3>`;
   });
