@@ -9,8 +9,8 @@ module.exports = {
   },
 
   devServer: {
-    contentBase: path.resolve(__dirname, "./dist"),
-    publicPath: "/assets/",
+    contentBase: path.resolve(__dirname, ""),
+    publicPath: "localhost:8000/dist/assets/",
   },
 
   module: {
