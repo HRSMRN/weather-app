@@ -3,13 +3,13 @@ class Forecast {
     this.key = "ZExhgDtfL6dAox3Epys81gGqyodNBaKB";
 
     this.cityUrl =
-      "http://dataservice.accuweather.com/locations/v1/cities/search";
+      "https://dataservice.accuweather.com/locations/v1/cities/search";
 
     this.weatherUrl =
-      "http://dataservice.accuweather.com/currentconditions/v1/";
+      "https://dataservice.accuweather.com/currentconditions/v1/";
 
     this.fiveDayForecastUrl =
-      "http://dataservice.accuweather.com/forecasts/v1/daily/5day/";
+      "https://dataservice.accuweather.com/forecasts/v1/daily/5day/";
 
     this.cityID = "";
 
